@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">软件</string>
+    <string name="nutrition">食物营养 </string>
+    <string name="cbc">CBC新闻</string>
+    <string name="movie">电影信息</string>
+    <string name="oc">公交车查询</string>
+    <string name="stop">车站号码</string>
+    <string name="destination">终点 </string>
+    <string name="latitude">经度 </string>
+    <string name="longitude">纬度 </string>
+    <string name="speed">速度 </string>
+    <string name="startTime">开始时间 </string>
+    <string name="adjust">调整时间 </string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="add">增加</string>
+    <string name="route">路</string>
+    <string name="goBack">确定回到菜单页面?</string>
+    <string name="instruction">指南：
+    在车站页面可以写入车站号码，点击号码进入搜索页面，显示公交车车次，可以点击每一路公交车来查看详细信息</string>
+</resources>

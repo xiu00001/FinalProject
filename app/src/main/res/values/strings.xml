@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Final Project</string>
+    <string name="nutrition">Food Nutrition </string>
+    <string name="cbc">CBC News reader</string>
+    <string name="movie">Movie Information</string>
+    <string name="oc">OCTranspo Bus Route App</string>
+    <string name="stop">StopList</string>
+    <string name="destination">Destination= </string>
+    <string name="latitude">Latitude= </string>
+    <string name="longitude">Longitude= </string>
+    <string name="speed">Speed= </string>
+    <string name="startTime">Start time= </string>
+    <string name="adjust">Adjusted Schedule Time= </string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="add">ADD</string>
+    <string name="route">Routes</string>
+    <string name="stopNumber">Stop number= </string>
+    <string name="goBack">Do you want back to main menu?</string>
+    <string name="instruction">Instruction:
+This application allows you to add stops number and get the information of the stop when you click the stop number.
+Click the Stops Button and it will display a listview of stops. Then you can click the stop number and it will show the bus routes.
+You can also choose one route to select and it will display the detail information of that route."</string>
 </resources>
